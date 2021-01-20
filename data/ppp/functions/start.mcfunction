@@ -8,5 +8,3 @@ kill 0-0-0-0-0
 clear @a
 gamemode survival @a
 time set day
-
-scoreboard players reset ppp_global ppp_start
