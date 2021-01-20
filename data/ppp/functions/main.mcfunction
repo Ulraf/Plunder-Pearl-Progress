@@ -1,3 +1,5 @@
-execute unless score hcexpand hce_start matches 1 unless entity @a[scores={hce_start=1}] run scoreboard players enable @a hce_start
-execute as @p[scores={hce_start=1}] at @s run function hcexpand:init
-execute if score hcexpand hce_start matches 1 run function hcexpand:game_loop
+execute as @a[tag=!ppp_counted] run scoreboard players add ppp_global ppp_player_count 1
+execute as @a[tag=!ppp_counted] run tag @s add ppp_counted
+
+execute as @p[scores={ppp_start=1}] run function ppp:init
+execute if score ppp_global ppp_start matches 1 run function ppp:game_loop
