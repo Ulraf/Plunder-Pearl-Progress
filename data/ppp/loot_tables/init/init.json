@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+  {
+      "rolls": 1,
+      "entries": [
+      {
+          "type": "minecraft:item",
+          "functions": [
+              {
+                  "function": "minecraft:exploration_map",
+                  "destination": "stronghold",
+                  "decoration": "red_x",
+                  "zoom": 1,
+                  "skip_existing_chunks": true
+              },
+              {
+                  "function": "minecraft:set_name",
+                  "name": {
+                      "text": "End City Explorer Map",
+                      "italic": false
+                  }
+              }],
+          "name": "minecraft:map"
+      }]
+  }]
+}
