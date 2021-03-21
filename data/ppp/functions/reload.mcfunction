@@ -2,6 +2,8 @@ scoreboard objectives add ppp_start trigger
 scoreboard objectives add ppp_player_count dummy
 scoreboard objectives add ppp_pearl_chance dummy
 scoreboard objectives add ppp_pearl_time dummy
+scoreboard objectives add ppp_wb_size dummy
+scoreboard objectives add ppp_wb_subsize dummy
 
 scoreboard players enable @a ppp_start
 scoreboard players set ppp_global ppp_player_count 0
