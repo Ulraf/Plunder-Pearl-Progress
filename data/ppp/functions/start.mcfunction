@@ -6,7 +6,7 @@ execute at 0-0-0-0-0 run tp @a ~ ~ ~
 worldborder set 1
 scoreboard players set ppp_global ppp_wb_size 1
 scoreboard players set ppp_global ppp_wb_subsize 0
-scoreboard players set ppp_global ppp_start 2
+scoreboard players set ppp_global ppp_start 3
 clear @a
 gamemode survival @a
 time set day

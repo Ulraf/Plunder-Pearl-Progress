@@ -14,7 +14,9 @@ Version 1.0
 * Throwing an enderpearl will move all players and the world-boarder to the enderpearl landing spot
 * Throwing a stack of Smoothstone on the ground will convert those to an enderpearl
 
-Next Version
+Version 1.1
 
 * Bugfix - changed the reload menu to @a (was @p)
+* Many code cleanup to better handle reloading in the same world
+* Add handling for when a player is outside the border - for example, if the border was moved while the player was disconnected
 
