@@ -20,3 +20,6 @@ Version 1.1
 * Many code cleanup to better handle reloading in the same world
 * Add handling for when a player is outside the border - for example, if the border was moved while the player was disconnected
 
+Next Version
+
+* Shows ppp's welcome text on player login
