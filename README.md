@@ -20,6 +20,7 @@ Version 1.1
 * Many code cleanup to better handle reloading in the same world
 * Add handling for when a player is outside the border - for example, if the border was moved while the player was disconnected
 
-Next Version
+Version 1.2
 
 * Shows ppp's welcome text on player login
+* The smoothstone processing now triggers advancement reward
