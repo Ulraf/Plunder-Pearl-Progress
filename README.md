@@ -4,7 +4,7 @@ A data-pack, by Ulraf, for Minecraft 1.16.5
 Start in a 1 by 1 worldboarder!
  - Plunder your surroundings
  - Pearl away using enderpearls to new locations
- - Progress and complete advancements
+ - Progress and complete advancements to grow the worldboarder
 
 Version 1.0
 
