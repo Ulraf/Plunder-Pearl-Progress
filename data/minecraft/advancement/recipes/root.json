@@ -1,0 +1,1 @@
+{"criteria": {"impossible": {"trigger": "minecraft:impossible"}}, "requirements": [["impossible"]], "rewards": {"function": "ppp:advancement_made"}}

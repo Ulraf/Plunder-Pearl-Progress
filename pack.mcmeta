@@ -1,7 +1,8 @@
 {
 	"pack": {
-  	"pack_format": 6,
-  	"description": "A data-pack, by Ulraf, for Minecraft - where you start in a 1 by 1 worldboarder and attempt to finish the game!"
+        "min_format": [101, 1],
+        "max_format": [101, 1],
+		"description": "A Minecraft datapack where you start in a 1 by 1 worldboarder and attempt to finish the game! Made by Ulraf"
 	}
 }
 
